@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <h1 className="text-6xl font-bold text-gray-800 dark:text-white">
-        Home Page 2
+       Level 2 Home Page
       </h1>
     </div>
   );
